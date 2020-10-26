@@ -1,0 +1,89 @@
+use "os.ch5"   //引入一些常用的函数和api
+var variable="666"
+
+class a{import printf from "msvcrt.dll"     //可多层嵌套类
+    var str="父级的父级的变量"
+    class b{import printf from "msvcrt.dll"
+        class c{use "os.ch5"
+            var 变量1=12345679
+            var str="成功"
+            static{
+                parent.parent.str,"%s\n" printf
+                str,"%s\n" printf
+                global.variable,"%s\n" printf
+                "运行结束！","%s\n" printf
+                .end
+            }
+        }
+        static{"运行了b的静态代码块","%s\n" printf}
+    }
+    static{"运行了a的静态代码块","%s\n" printf}
+}
+static{"多个static块将顺序执行","%s\n" printf}
+static{
+    "开始运行","%s\n" printf
+    a.b.c.变量1,"%d\n" printf
+    a.b.c.变量1=a.b.c.变量1*8
+    a.b.c.变量1,"%d\n" printf
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+func printNumber a dword{  //定义一个函数 第一个参数 名称为a 类型是dword
+    a,"%d\n" printf
+}
+func printString a dword{a,"%s\n" printf}
+static{
+    b+a*2 printNumber//先乘除后加减 结果应该是400
+    (b+a)*2 printNumber//括号优先级更高 应该是600
+    -((10/2-4/2)*(1+3)/3+(3-0*1)) printNumber// -7
+    if a>b
+        "a>b" printString
+    else if a==b
+        "a=b" printString
+    else
+        "a<b" printString
+    .pause;.end
+}
+
+var str="Hello, world!你好世界！"
+    str,"%s\n" printf
+    var 变量="测试成功！"     //变量名可以是中文
+    if a+100==b               //无需括号 若只有一条语句可省略大括号
+        for(var 变量=0;变量<100;变量=变量+1)
+            变量,"%d" printf
+    else
+        "测试失败！","%d" printf
+    "\n","%s" printf
+    变量,"%s" printf
+    .end
+
+
+    a+b,"%d" printf
+    .pause
+    .end
+*/
+
+
+
+
+
+/*
+    a=2
+    b=200
+    "你好世界" print
+    if a==2
+         "a==2" print
+    else
+        "a!=2" print
+    a*(300-b),"%d" printf
+*/

@@ -1,0 +1,16 @@
+import printf from "msvcrt.dll"
+import ExitProcess from "KERNEL32.DLL:ExitProcess"
+import system from "msvcrt.dll"
+
+func print num dword{num,"%d\n" printf}
+func pause{"pause" system}
+func end{0 ExitProcess}
+
+func add10 num dword{=num+10}
+func x10 num dword{=num*10}
+
+static{
+  100 add10 x10 add10 print
+  .pause
+  .end
+}

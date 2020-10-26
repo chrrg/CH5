@@ -1,0 +1,12 @@
+安装jdk
+cmd运行以下命令：
+java -jar CH5.jar -c code.ch5 1.exe
+即可生成1.exe
+code.ch5是源码
+1.exe是输出的文件路径
+编译一次：
+java -jar CH5.jar -c code.ch5 1.exe
+按一次回车编译一次：
+java -jar CH5.jar -cc code.ch5 1.exe
+
+软件作者：曹鸿

@@ -1,0 +1,20 @@
+import ExitProcess from "KERNEL32.DLL:ExitProcess"
+import printf from "msvcrt.dll"
+func end{0 ExitProcess}
+
+class a{
+	var Variable=200
+	class b{
+		var Variable=100
+	}
+}
+var 变量="你好，世界"
+static{
+
+	if a.b.Variable==100 && a.Variable>a.b.Variable
+		a.b.Variable,"%d" printf
+	else
+		"不正确","%d" printf
+	变量,"%s" printf
+	.end //结束运行
+}
