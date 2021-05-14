@@ -10,123 +10,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf967cd3-a6db-468c-a65c-bf1e18e51d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/test.ch5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/META-INF/CH5.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/META-INF/CH5.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/AstParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/AstParse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/CompilerException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/CompilerException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/OperateSymbolKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/OperateSymbolKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_ArrayBracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_ArrayBracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Bracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Bracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Crlf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Crlf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Double.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Double.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Int.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Token_Word.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Tokenizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/Tokenizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/astParseControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/astParseControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_call.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_call.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_for.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_for.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_fun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_fun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_fun_param.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_fun_param.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_func.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_func.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_if.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_import.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_import.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_init.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_init.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_nodeWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_object.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_static.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_static.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_unary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_use.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_use.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_var.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_var.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_var_item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_var_item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_while.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ast_while.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ch5_type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/ch5_type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/codeBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/codeBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_and.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_and.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_andAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_andAnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_assign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_at.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_at.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_backslash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_backslash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_bit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_bit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_colon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_colon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_comma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_comma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_dec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_dec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_division.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_division.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_dot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_dot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_equal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_equal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_excl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_excl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_greater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_greater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_greaterEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_greaterEqual.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_inc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_inc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_left.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_left.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_less.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_less.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_lessEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_lessEqual.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_minus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_minus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_mod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_mod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_mutil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_mutil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_notEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_notEqual.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_or.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_or.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_orOr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_orOr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_pound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_pound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_question.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_question.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_right.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_right.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_rightAssign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/op_rightAssign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/operateSymbol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/operateSymbol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/parseControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/parseControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Win32Api.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Win32Api.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Win32Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/Win32Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_apiIdent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_apiIdent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_class_new.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_class_new.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_class_static.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_class_static.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_constString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_constString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funIdent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funIdent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funLocalIdent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funLocalIdent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funParamIdent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_funParamIdent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_ident.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_ident.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_int.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_label.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_label.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_objectIdent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_objectIdent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_param.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_param.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_cl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_cl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_eax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_eax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_ebx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_ebx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_ecx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_ecx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_edx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/asm_register_edx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/basicType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/basicType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/build_section.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/build_section.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/ch5_platform.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/ch5_platform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/codeAsm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/codeAsm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/codeBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/codeBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/constantString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/constantString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/fun_block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/fun_block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/fun_param.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/fun_param.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/func_block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/func_block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/import_api.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/import_api.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/lightScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/lightScope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/scope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/scope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/waitFix_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/waitFix_class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/wantFix_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/wantFix_class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/win32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/win32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/win32_tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CH5/cn/ch/ch5/win32/win32_tool.class" afterDir="false" />
-    </list>
+    <list default="true" id="bf967cd3-a6db-468c-a65c-bf1e18e51d83" name="Default Changelist" comment="dev" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -356,8 +240,23 @@
       <workItem from="1620698303467" duration="14277000" />
       <workItem from="1620898410279" duration="843000" />
       <workItem from="1620899411104" duration="598000" />
-      <workItem from="1620954820892" duration="8754000" />
+      <workItem from="1620954820892" duration="9057000" />
     </task>
+    <task id="LOCAL-00001" summary="dev">
+      <created>1620983897573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620983897573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dev">
+      <created>1620983934477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620983934477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -422,6 +321,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
