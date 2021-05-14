@@ -1,7 +1,14 @@
 import printf from "msvcrt.dll"
-import end from "KERNEL32.DLL:ExitProcess"//(dword)
+import cout from "msvcrt.dll"
+import exit from "KERNEL32.DLL:ExitProcess"//(dword)
+func end{
+    0 exit
+}
 static{
+    var variable dword
+    variable=12345679*0x50
     "Hello,world!","%s\n" printf
-    987654321,"%d" printf
-    0 end
+    variable+1,"%d" printf
+    "aa" cout
+    .end
 }
