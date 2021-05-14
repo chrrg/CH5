@@ -1,0 +1,29 @@
+import AllocConsole from "KERNEL32.DLL:AllocConsole"//()
+import lstrlen from "KERNEL32.DLL:lstrlen"//(dword)
+import GetStdHandle from "KERNEL32.DLL:GetStdHandle"//(dword)
+import WriteConsole from "KERNEL32.DLL:WriteConsoleA"//(dword,dword,dword,dword,dword=0)
+import ExitProcess from "KERNEL32.DLL:ExitProcess"//(dword)
+import ReadConsole from "KERNEL32.DLL:ReadConsoleInputA"
+import system from "msvcrt.dll"
+import printf from "msvcrt.dll"
+import msgbox from "USER32.DLL:MessageBoxA"//(dword,string,string,dword)
+func msgbox title dword,content dword{
+    0,title,content,0 msgbox
+}
+func print text dword{
+    var handle_console dword
+    handle_console=-11 GetStdHandle
+    0,0,(text lstrlen),text,handle_console WriteConsole
+}
+func pause{
+    "pause" system
+}
+func line{
+    "\n" print
+}
+func end{
+    0 ExitProcess
+}
+func getNumber{
+    =10
+}

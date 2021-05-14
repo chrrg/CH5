@@ -1,0 +1,7 @@
+import printf from "msvcrt.dll"
+import end from "KERNEL32.DLL:ExitProcess"//(dword)
+static{
+    "Hello,world!","%s\n" printf
+    987654321,"%d" printf
+    0 end
+}
